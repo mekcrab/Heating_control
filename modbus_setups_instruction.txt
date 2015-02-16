@@ -1,0 +1,18 @@
+Setup steps:
+
+
+Python
+(1)	install python easy setup:
+	
+	$sudo apt-get install python-setuptools
+
+(2)	install pymodbus and dependancies
+
+	$easy_install -U pymodbus
+
+(3)	Profit
+
+Arduino
+(1)	Mudbus for modbus communications
+
+(2)	Profit
