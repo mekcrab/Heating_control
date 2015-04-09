@@ -1,3 +1,4 @@
+#include <Arduino.h>
 // This Arduino sketch reads DS18B20 "1-Wire" digital
 // temperature sensors, displays them on a 20x4 display,
 // and controls relays for zone controllers.

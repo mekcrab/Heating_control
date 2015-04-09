@@ -1,0 +1,6 @@
+
+
+#include <lib/OneWire/OneWire.h>
+
+// Data wire for sensors is plugged into Digital pin 7 on the Arduino
+#define ONE_WIRE_BUS 7
